@@ -1,0 +1,8 @@
+.headerimg {
+	background-image: url('../img/headimg.jpg');
+	background-size: 100%;
+	width: 100%;
+	height: 400px;
+	background-position: center;
+	box-shadow: inset 0 0 0 100vw rgba(0, 0, 0, 0.5);
+}
